@@ -1,0 +1,16 @@
+---
+title: int3r4kt3f4kt
+
+exclude: ['/scripts', '/Gemfile', '/Makefile', '/README.md']
+
+permalink: pretty
+
+collections:
+  commands:
+    output: true
+
+defaults:
+  - scope:
+      path: '_commands'
+    values:
+      layout: bin
