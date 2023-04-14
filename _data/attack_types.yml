@@ -1,0 +1,40 @@
+---
+Enumeration:
+  label: Enumeration
+  description: Command focuses on enumeration.
+
+Exploitation:
+  label: Exploitation
+  description: Command focuses on exploitation.
+
+Persistence:
+  label: Persistence
+  description: Command focuses on persistence.
+
+PrivEsc:
+  label: Privilege Escalation
+  description: Command focuses on privilege escalation.
+
+General:
+  label: General
+  description: Command to help you with common activities.
+
+Cracking:
+  label: Cracking
+  description: Command to help you cracking all kinds of stuff.
+
+Injection:
+  label: Injection
+  description: Command/payload to inject stuff into victim.
+
+Bypassing:
+  label: Bypassing
+  description: Command/code that supports bypassing antivirus or AMSI.
+
+Authentication:
+  label: Authentication
+  description: Command/code that help you connect to system/account.
+
+Pivoting:
+  label: Pivoting
+  description: Command/code that help you to pivot/move laterally between machines.
